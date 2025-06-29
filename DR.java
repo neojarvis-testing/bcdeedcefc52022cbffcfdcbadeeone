@@ -9,3 +9,5 @@ s3
 runtest case
 
 run test case2
+
+submit project
